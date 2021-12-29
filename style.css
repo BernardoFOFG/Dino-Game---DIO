@@ -21,6 +21,10 @@ body {
   margin-top: 50px;
   font-family: Arial;
 }
+#restart {
+  margin-top: 15px;
+  height: 50px;
+}
 @keyframes slideright {
   from {
     background-position: 70000%;
